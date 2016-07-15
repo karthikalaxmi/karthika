@@ -1,0 +1,54 @@
+<!DOCTYPE html >
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Unique representation</title>
+<style>
+table, th, td {
+    border: 1px solid black;
+	border-collapse:collapse;
+	border-spacing:5px;
+	background-color:#CFF;
+}
+th, td{
+	padding:5px;
+}
+th{
+	text-align:left;
+}
+
+</style>
+</head>
+<body>
+
+<table style="width:100%">
+<caption>Name table</caption>
+  <tr>
+    <th>employee name</th>
+    <th>id </th>
+    <th>salary</th>
+    <th>company name</th>
+  </tr>
+  <tr>
+    <td>komali</td>
+    <td>458628</td>
+    <td>30000</td>
+    <td>chromix</td>
+  </tr>
+  <tr>
+    <td>charan</td>
+    <td>845629</td>
+    <td>32000</td>
+    <td>micromax</td>
+    
+  </tr>
+  <tr>
+    <td>satya</td>
+    <td>324989</td>
+    <td>45000</td>
+    <td>TCS</td>
+    </tr>
+</table>
+
+</body>
+</html>
